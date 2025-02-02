@@ -4,7 +4,7 @@
 ## Примеры:  
 ![Screenshot 2025-02-03 004532](https://github.com/user-attachments/assets/abf6e97c-4c5f-40c9-8188-e85bf42430c2) 
 
-В игре:  
+### В игре:  
 ![Screenshot 2025-02-03 004739](https://github.com/user-attachments/assets/d937a3d2-0021-4df8-ba06-7ae69fbdf119)   
 
 # Установка скачивая initPlayerLocal.sqf
@@ -13,7 +13,7 @@
 # Установка редактирую initPlayerLocal.sqf
 скачиваем файл initPlayerLocal.sqf из моего GitHub репозитория, берем из него начиная со "spawn [] {код};" и прямо вместе с "spawn [] {код};" добавляем в конец вашего уже готового кода или вначало
 
-![Screenshot 2025-01-27 215653](https://github.com/user-attachments/assets/8a34824a-68c1-48f3-98dd-da27192bdfab)
+![Screenshot 2025-02-03 005818](https://github.com/user-attachments/assets/4faf28fe-c1d5-4449-939e-f62584af586f)
 
 # Плюсы
 1. Оптимизировано, отлично работает для игры на обе стороны BLUEFOR и OPFOR
